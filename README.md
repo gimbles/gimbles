@@ -1,4 +1,7 @@
-### Hi there 👋
+# Howdy traveller 👋
+I'm Yush! A student and olympic napper. I use Rust, Kotlin and Ruby.
+
+
 
 <!--
 **Yush08/Yush08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
